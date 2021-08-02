@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+*{
+    font-family: "Open Sans",sans-serif;
+}
+
+body {
+    padding: 0;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+   }
+
+#calendar {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+ul li a{
+    font-family: "Open Sans",sans-serif;
+    font-size: 16px;
+}
+
+h3{
+    font-family: "Open Sans",sans-serif;
+    font-weight: bold;
+}
+
+p{
+    font-family: "Open Sans",sans-serif;
+}
+
+.limiter{
+    font-family: "Open Sans",sans-serif;
+}
+
+ 
